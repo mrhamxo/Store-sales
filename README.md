@@ -1,7 +1,5 @@
 # Store Ecommerce Sales Dashboard
 
-### Dashboard Link : [Your Dashboard Link]
-
 ## Problem Statement
 
 This dashboard provides insights into the sales performance of an e-commerce store. It helps in understanding the distribution of profits, quantities sold, and customer purchasing behaviors across different categories, sub-categories, and payment modes. By analyzing these metrics, the store can identify trends, optimize inventory, and improve sales strategies.
@@ -91,14 +89,6 @@ Following inferences can be drawn from the dashboard:
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Dashboard Snapshot](https://yourimageurl.jpg)
-
-# Report Snapshot (Power BI DESKTOP)
-
-![Report Snapshot](https://yourimageurl.jpg)
-
-# Publishing
-
-- The report was published to Power BI Service for enhanced accessibility and collaboration.
+![store sales dashboard](https://github.com/mrhamxo/Store-sales/assets/58738020/74953fe9-8c09-4f81-a9f8-69bc8b574fa9)
 
 By analyzing this dashboard, the e-commerce store can make data-driven decisions to enhance profitability, optimize inventory, and improve overall sales performance.
