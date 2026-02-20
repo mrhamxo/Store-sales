@@ -1,4 +1,4 @@
-# Store Ecommerce Sales Dashboard
+# Store Ecommerce Sales
 
 ## Problem Statement
 
